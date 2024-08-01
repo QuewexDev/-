@@ -32,6 +32,7 @@ sudo apt install qemu-system-x86-64
 __Now downloading noVNC and websockify, run this commands:__
 
 git clone https://github.com/novnc/noVNC.git
+
 git clone https://github.com/novnc/websockify.git
 
 _Done! You installed qemu with noVNC_
