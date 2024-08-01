@@ -43,7 +43,7 @@ _For run noVNC, first, you should change your directory into websockify_
 
 cd websockify
 
-_After, you should run this command: _
+_After, you should run this command_
 
 python3 -m websockify (port where will noVNC running) 127.0.0.1:(vnc port) --web ../noVNC
 
